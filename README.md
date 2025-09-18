@@ -5,7 +5,6 @@ A simple sushi restaurant website built as a learning project using HTML, CSS, a
 ## 🔧 Features
 
 - Clean layout with sushi-themed design
-- Responsive design (optional based on your styling)
 - JavaScript file included for basic interactivity
 
 ## 🧠 What I Learned
