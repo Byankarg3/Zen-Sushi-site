@@ -20,3 +20,20 @@ This is my first full website project — built by following a YouTube tutorial 
 ## 🌐 Live Preview
 
 **Coming soon via GitHub Pages!**
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./assets/home-page.png)
+
+### 🍣 Menu
+![Menu](./assets/menu.png)
+
+### 📖 Recipe
+![Recipe](./assets/recipe.png)
+
+### 📞 About Section
+![About](./assets/about.png)
+
+### 🚪 Footer
+![Footer](./assets/footer.png)
